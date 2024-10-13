@@ -14,11 +14,12 @@ Also includes plugin support for:
 - Crypto Competitions
 - Stock Competitions
 
-**Note**: Plugins are available for subscribers in Discord downloads.
+**Note**: Plugins and games are available for subscribers in Discord downloads.
+**Subscribe**: On our Discord you will find updated files with games.
 
 ## Key Features
 
-- 1100 games available (as of December 2023), including 100 from Pragmatic Play
+- 1100 games available (as of late 2024), including 100 from Pragmatic Play
 - GeoIP2 support (manually enabled)
 
 ## Getting Started
