@@ -1,0 +1,13 @@
+{
+
+"port":"22154/slots",
+
+"host":"betshop.io",
+"prefix":"https://",
+
+"host_ws":"betshop.io",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
